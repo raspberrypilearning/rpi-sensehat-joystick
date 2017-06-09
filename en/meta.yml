@@ -1,10 +1,10 @@
 title: rpi-sensehat-joystick
 hero_image: images/banner.png
-description: rpi-sensehat-joystick description
+description: Detect when the Sense HAT joystick is moved
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
 theme: cc-prototype
 duration: 1 # 1, 2 or 3
-ingredient: false
+ingredient: true
 listed: false
 steps:
   - title: Step one
