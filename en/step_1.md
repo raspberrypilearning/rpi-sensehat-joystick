@@ -1,8 +1,3 @@
---- step ---
----
-title: Sense HAT: detecting joystick movement
----
-
 The Sense HAT joystick is mapped to the four keyboard cursor keys, with the joystick middle-click being mapped to the Return key. This means that moving the joystick has exactly the same effect as pressing those keys on the keyboard. Remember that the down direction is with the HDMI port facing downwards.
 
   ![](images/cursor_keys.jpg)
@@ -39,4 +34,4 @@ The Sense HAT joystick is mapped to the four keyboard cursor keys, with the joys
 ('middle', 'released')
 ```
 
---- /step ---
+
