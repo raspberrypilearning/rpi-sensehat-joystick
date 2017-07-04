@@ -1,10 +1,13 @@
 title: Detecting joystick movement with the Sense HAT
 hero_image: images/banner.png
 description: Detect when the Sense HAT joystick is moved
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+original_url:
 theme: cc-prototype
 duration: 1 # 1, 2 or 3
 ingredient: true
 listed: false
+copyedit: false
+interests:
+technologies: "python, sense hat"
 steps:
-  - title: Step one
+  - title: Detecting joystick motion
