@@ -1,0 +1,13 @@
+title: Detecting joystick movement with the Sense HAT
+hero_image: images/banner.png
+description: Detect movements of the the Sense HAT's joystick
+original_url:
+theme: cc-prototype
+duration: 1 # 1, 2 or 3
+ingredient: true
+listed: false
+copyedit: false
+interests:
+technologies: "python, sense hat"
+steps:
+  - title: Detecting joystick motion
